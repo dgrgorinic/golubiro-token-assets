@@ -1,0 +1,11 @@
+{
+  "name": "Spijuniro Golubiro",
+  "symbol": "GOLUB",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Memecoin based on the viral pigeon agent meme.",
+  "website": "https://golubiro.com",
+  "explorer": "https://bscscan.com/token/0x5a38234D8853CBa44A990DC6a4dAB340954C3Ff8",
+  "status": "active",
+  "id": "0x5a38234D8853CBa44A990DC6a4dAB340954C3Ff8"
+}
